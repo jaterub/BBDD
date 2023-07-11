@@ -1,6 +1,6 @@
 
 # Advertising Model API 🚀
-Flask API 🌐 The Flask API has several routes that allow you to make predictions, ingest data, and retrain the model.
+Flask API 🌐 has several routes that allow you to make predictions, ingest data, and retrain the model.
 
 This repository contains two main folders: [data](./data) and [ejercicio](./ejercicio). The `data` folder contains the necessary data for the Advertising Model API, while the `ejercicio` folder contains the code for the API and the script to convert a CSV file into an SQLite database.
 
