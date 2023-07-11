@@ -35,7 +35,7 @@ This will start a local development server at  http://localhost:5000. You can th
 
 To run the SQL database creator script, use the following command:
 
-python csv_to_sqlite.py
+- python csv_to_sqlite.py
 
 This will read data from the CSV file and store it in an SQLite database called advertising.db in the data directory.
 
