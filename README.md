@@ -31,7 +31,7 @@ To run the Flask API, use the following command:
 
 python app_model_db.py
 
-This will start a local development server at http://127.0.0.1:5000. You can then use your web browser or an HTTP client like cURL or Postman to interact with the API.
+This will start a local development server at localhost:5000. You can then use your web browser or an HTTP client like cURL or Postman to interact with the API.
 
 To run the SQL database creator script, use the following command:
 
