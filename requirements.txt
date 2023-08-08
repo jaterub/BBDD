@@ -43,74 +43,22 @@ pywin32==305.1
 queuelib==1.5.0
 scipy==1.10.0
 tables==3.7.0
-
-
-
-
-
-pyrsistent @ file:///C:/ci_310/pyrsistent_1642117077485/work
-PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
-python-lsp-black @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_dddk9lhpp1/croots/recipe/python-lsp-black_1661852041405/work
-
-python-lsp-server @ file:///C:/b/abs_e44khh1wya/croot/python-lsp-server_1677296772730/work
-python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
-python-snappy @ file:///C:/b/abs_61b1fmzxcn/croot/python-snappy_1670943932513/work
-pytoolconfig @ file:///C:/b/abs_18sf9z_iwl/croot/pytoolconfig_1676315065270/work
-pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
-pyviz-comms @ file:///tmp/build/80754af9/pyviz_comms_1623747165329/work
-PyWavelets @ file:///C:/b/abs_a8r4b1511a/croot/pywavelets_1670425185881/work
-
-pywin32-ctypes @ file:///C:/ci_310/pywin32-ctypes_1642657835512/work
-pywinpty @ file:///C:/b/abs_73vshmevwq/croot/pywinpty_1677609966356/work/target/wheels/pywinpty-2.0.10-cp310-none-win_amd64.whl
-PyYAML @ file:///C:/b/abs_d0g7dqt2xw/croot/pyyaml_1670514768165/work
-pyzmq @ file:///C:/ci/pyzmq_1657616000714/work
-QDarkStyle @ file:///tmp/build/80754af9/qdarkstyle_1617386714626/work
-qstylizer @ file:///C:/b/abs_ef86cgllby/croot/qstylizer_1674008538857/work/dist/qstylizer-0.2.2-py2.py3-none-any.whl
-QtAwesome @ file:///C:/b/abs_c5evilj98g/croot/qtawesome_1674008690220/work
-qtconsole @ file:///C:/b/abs_5bap7f8n0t/croot/qtconsole_1674008444833/work
-QtPy @ file:///C:/ci/qtpy_1662015130233/work
-
-regex @ file:///C:/ci/regex_1658258299320/work
-requests @ file:///C:/ci/requests_1657735340829/work
-requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
-requests-toolbelt @ file:///Users/ktietz/demo/mc3/conda-bld/requests-toolbelt_1629456163440/work
-rope @ file:///C:/b/abs_55g_tm_6ff/croot/rope_1676675029164/work
-Rtree @ file:///C:/b/abs_e116ltblik/croot/rtree_1675157871717/work
-ruamel-yaml-conda @ file:///C:/b/abs_6ejaexx82s/croot/ruamel_yaml_1667489767827/work
-ruamel.yaml @ file:///C:/b/abs_30ee5qbthd/croot/ruamel.yaml_1666304562000/work
-ruamel.yaml.clib @ file:///C:/b/abs_aarblxbilo/croot/ruamel.yaml.clib_1666302270884/work
-scikit-image @ file:///C:/b/abs_63r0vmx78u/croot/scikit-image_1669241746873/work
-scikit-learn @ file:///C:/b/abs_7ck_bnw91r/croot/scikit-learn_1676911676133/work
 scikit-learn-intelex==20230228.214818
-
-Scrapy @ file:///C:/b/abs_9fn69i_d86/croot/scrapy_1677738199744/work
-seaborn @ file:///C:/b/abs_68ltdkoyoo/croot/seaborn_1673479199997/work
-Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
-service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
-sip @ file:///C:/Windows/Temp/abs_b8fxd17m2u/croots/recipe/sip_1659012372737/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smart-open @ file:///C:/ci/smart_open_1651235038100/work
-sniffio @ file:///C:/ci_310/sniffio_1642092172680/work
-snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1637937080595/work
-sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
-soupsieve @ file:///C:/b/abs_fasraqxhlv/croot/soupsieve_1666296394662/work
-Sphinx @ file:///C:/ci/sphinx_1657617157451/work
-sphinxcontrib-applehelp @ file:///home/ktietz/src/ci/sphinxcontrib-applehelp_1611920841464/work
-sphinxcontrib-devhelp @ file:///home/ktietz/src/ci/sphinxcontrib-devhelp_1611920923094/work
-sphinxcontrib-htmlhelp @ file:///tmp/build/80754af9/sphinxcontrib-htmlhelp_1623945626792/work
-sphinxcontrib-jsmath @ file:///home/ktietz/src/ci/sphinxcontrib-jsmath_1611920942228/work
-sphinxcontrib-qthelp @ file:///home/ktietz/src/ci/sphinxcontrib-qthelp_1611921055322/work
-sphinxcontrib-serializinghtml @ file:///tmp/build/80754af9/sphinxcontrib-serializinghtml_1624451540180/work
-spyder @ file:///C:/b/abs_93s9xkw3pn/croot/spyder_1677776163871/work
-spyder-kernels @ file:///C:/b/abs_feh4xo1mrn/croot/spyder-kernels_1673292245176/work
-SQLAlchemy @ file:///C:/Windows/Temp/abs_f8661157-660b-49bb-a790-69ab9f3b8f7c8a8s2psb/croots/recipe/sqlalchemy_1657867864564/work
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-statsmodels @ file:///C:/b/abs_bdqo3zaryj/croot/statsmodels_1676646249859/work
-sympy @ file:///C:/b/abs_95fbf1z7n6/croot/sympy_1668202411612/work
-
-tabulate @ file:///C:/ci/tabulate_1657600805799/work
 TBB==0.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
 tenacity @ file:///C:/Windows/TEMP/abs_980d07a6-8e21-4174-9c17-7296219678ads7dhdov_/croots/recipe/tenacity_1657899108023/work
 terminado @ file:///C:/b/abs_25nakickad/croot/terminado_1671751845491/work
