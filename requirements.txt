@@ -36,31 +36,23 @@ pycurl==7.45.1
 PyDispatcher==2.0.5
 PyQt5==5.15.7
 pyls-spyder==0.4.0
-
-
-
-pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
-poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
-prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
-prompt-toolkit @ file:///C:/b/abs_6coz5_9f2s/croot/prompt-toolkit_1672387908312/work
-Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
-psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
-
-
-pydocstyle @ file:///C:/b/abs_6dz687_5i3/croot/pydocstyle_1675221688656/work
-pyerfa @ file:///C:/ci_310/pyerfa_1642088497201/work
-pyflakes @ file:///C:/b/abs_6dve6e13zh/croot/pyflakes_1674165143327/work
-Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
-PyQt5-sip @ file:///C:/Windows/Temp/abs_d7gmd2jg8i/croots/recipe/pyqt-split_1659273064801/work/pyqt_sip
 PyQtWebEngine==5.15.4
+pytest==7.1.2
+python-lsp-jsonrpc==1.0.0
+pywin32==305.1
+queuelib==1.5.0
+scipy==1.10.0
+tables==3.7.0
+
+
+
+
+
 pyrsistent @ file:///C:/ci_310/pyrsistent_1642117077485/work
 PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
-pytest==7.1.2
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 python-lsp-black @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_dddk9lhpp1/croots/recipe/python-lsp-black_1661852041405/work
-python-lsp-jsonrpc==1.0.0
+
 python-lsp-server @ file:///C:/b/abs_e44khh1wya/croot/python-lsp-server_1677296772730/work
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 python-snappy @ file:///C:/b/abs_61b1fmzxcn/croot/python-snappy_1670943932513/work
@@ -68,7 +60,7 @@ pytoolconfig @ file:///C:/b/abs_18sf9z_iwl/croot/pytoolconfig_1676315065270/work
 pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
 pyviz-comms @ file:///tmp/build/80754af9/pyviz_comms_1623747165329/work
 PyWavelets @ file:///C:/b/abs_a8r4b1511a/croot/pywavelets_1670425185881/work
-pywin32==305.1
+
 pywin32-ctypes @ file:///C:/ci_310/pywin32-ctypes_1642657835512/work
 pywinpty @ file:///C:/b/abs_73vshmevwq/croot/pywinpty_1677609966356/work/target/wheels/pywinpty-2.0.10-cp310-none-win_amd64.whl
 PyYAML @ file:///C:/b/abs_d0g7dqt2xw/croot/pyyaml_1670514768165/work
@@ -78,7 +70,7 @@ qstylizer @ file:///C:/b/abs_ef86cgllby/croot/qstylizer_1674008538857/work/dist/
 QtAwesome @ file:///C:/b/abs_c5evilj98g/croot/qtawesome_1674008690220/work
 qtconsole @ file:///C:/b/abs_5bap7f8n0t/croot/qtconsole_1674008444833/work
 QtPy @ file:///C:/ci/qtpy_1662015130233/work
-queuelib==1.5.0
+
 regex @ file:///C:/ci/regex_1658258299320/work
 requests @ file:///C:/ci/requests_1657735340829/work
 requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
@@ -91,7 +83,7 @@ ruamel.yaml.clib @ file:///C:/b/abs_aarblxbilo/croot/ruamel.yaml.clib_1666302270
 scikit-image @ file:///C:/b/abs_63r0vmx78u/croot/scikit-image_1669241746873/work
 scikit-learn @ file:///C:/b/abs_7ck_bnw91r/croot/scikit-learn_1676911676133/work
 scikit-learn-intelex==20230228.214818
-scipy==1.10.0
+
 Scrapy @ file:///C:/b/abs_9fn69i_d86/croot/scrapy_1677738199744/work
 seaborn @ file:///C:/b/abs_68ltdkoyoo/croot/seaborn_1673479199997/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
@@ -116,7 +108,7 @@ SQLAlchemy @ file:///C:/Windows/Temp/abs_f8661157-660b-49bb-a790-69ab9f3b8f7c8a8
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///C:/b/abs_bdqo3zaryj/croot/statsmodels_1676646249859/work
 sympy @ file:///C:/b/abs_95fbf1z7n6/croot/sympy_1668202411612/work
-tables==3.7.0
+
 tabulate @ file:///C:/ci/tabulate_1657600805799/work
 TBB==0.2
 tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
